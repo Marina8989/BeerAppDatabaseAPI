@@ -4,4 +4,3 @@
 [Beer App (click link)](https://unruffled-blackwell-a0c692.netlify.app)
 
 
-![beer app](beer.png)
